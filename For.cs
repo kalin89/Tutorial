@@ -22,5 +22,44 @@ namespace Tutorial
 
             Console.WriteLine($"La suma es {suma}");
         }
+
+        public static void CiclyWhile() 
+        {
+            //i = 8;
+            for(int i = 0; i <= 10;i++)
+            {
+                if(i <= 1)
+                {
+                    //no hacer nada;
+                }
+
+                for(int y = 2; y < i; y++)
+                {
+                    if(i % y == 0)
+                    {
+                        // == 
+                        //no sería primero
+                        //Si no entro aquí nunca
+                        //Es primo
+                    }
+                }
+
+
+                // 8, sea divido entre 1,2,3,4,5,6,7,8,9
+                //0,1 descartado
+                // Test
+                //2 /1 reciduo es 0
+                //2/2 reciduo es 0
+
+                //Test
+                // 3/1 = 0
+                // 3/2 = hay reciduo
+                // 3/3 = 0
+
+                //test 4
+
+
+            }
+        }
     }
 }

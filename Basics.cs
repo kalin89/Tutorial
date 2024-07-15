@@ -28,6 +28,7 @@ namespace Tutorial
             //Mayor igual >=
             //Meno igual <=
             // Igual que ==
+            // Igual que != 
 
             //Operadores Aritmeritocos
             // suma +, resta -, multiplicar *, dividir, % ;
