@@ -5,4 +5,5 @@
 using Tutorial;
 
 //Basics.BasicThings();
-For.CiclyFor();
+//For.CiclyFor();
+ArrayClass.BasicArrayUse();
